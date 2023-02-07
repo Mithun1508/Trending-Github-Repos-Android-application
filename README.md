@@ -1,5 +1,8 @@
 # Github Trending Repository 
 
+![Screenshot 2023-02-07 151640](https://user-images.githubusercontent.com/93249038/217210014-91d0b8bc-161c-42e8-b15e-8ecda6db5ea0.png)
+
+
 ## Functionality
 App that lists trending Github repositories
 
