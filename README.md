@@ -17,18 +17,8 @@ The android app lets you:
 
 ## Screenshots
 
-[<img src="/readme/ss1.png" align="left"
-width="200"
-hspace="10" vspace="10">](/readme/ss1.png)
-[<img src="/readme/ss2.png" align="center"
-width="200"
-hspace="10" vspace="10">](/readme/ss2.png)
-[<img src="/readme/ss3.png" align="left"
-width="200"
-hspace="10" vspace="10">](/readme/ss3.png)
-[<img src="/readme/ss4.png" align="center"
-width="200"
-hspace="10" vspace="10">](/readme/ss4.png)
+![Screenshot 2023-02-07 104229](https://user-images.githubusercontent.com/93249038/217155219-69cda7bf-6b5c-436c-b4ed-5b09fc905c42.png)
+
 
 ## Permissions
 
