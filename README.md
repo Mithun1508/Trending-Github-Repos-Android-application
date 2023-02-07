@@ -1,7 +1,5 @@
 # Github Trending Repository 
 
-This is a Take home project asisgned as a Machine coding Round 
-
 ## Functionality
 App that lists trending Github repositories
 
