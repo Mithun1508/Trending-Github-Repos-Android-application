@@ -42,7 +42,7 @@ I have decided to use [GitHub Trending API](https://github-trending-api-wonder.h
     - LiveData - notify domain layer data to views.
     - Lifecycle - dispose of observing data when lifecycle state changes.
     - ViewModel - UI related data holder, lifecycle aware.
-    - Navigation Component - handle everything needed for in-app navigation.
+    - Navigation Component - handle everything needed for in-app navigation
     - View Binding - bind UI elements to data.
 - Architecture
     - MVVM Architecture (View - DataBinding - ViewModel - Model)
